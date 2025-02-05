@@ -1,0 +1,1 @@
+C:\Users\ELYSE\Documents\NetBeansProjects\G_Stock\dist\stock.jar
